@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basemaboudeshish
-- 👀 I’m interested in C language and Embedded C
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, C language and Embedded C
+- 🌱 I’m currently learning the applications of python in Machine learning
 - 💞️ I’m looking to collaborate on Embedded Systems programming
 - 📫 How to reach me http://www.linkedin.com/in/basem-aboudeshish-444200117
 
